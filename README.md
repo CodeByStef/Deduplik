@@ -8,6 +8,7 @@ Since hashes are based on the whole file content, it may take a while to complet
 # Getting started:
 Unzip "Deduplik Beta 1.zip" to the folder of your choice.
 Look for and launch "Primordial.exe".
+You'll need .Net 8 installed (https://dotnet.microsoft.com/en-us/download/dotnet).
 
 Interacting with Deduplik is done with the mouse.  
 Left click: Object selection.
