@@ -49,6 +49,14 @@ graph LR;
     U4([FileD]);
     end
 
+    subgraph dups [Duplicate files]
+    F2([FileAB]);
+    F3([FileAC]);
+    style F2 stroke:#f00
+    style F3 stroke:#f00
+    style dups stroke:#f00, fill:#fee
+    end
+
     F1-->U1;
     F2-->U1;
     F3-->U1;
