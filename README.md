@@ -2,11 +2,11 @@
 Deduplik ⁕ A tool to visualize and cleanup duplicate files.
 
 Deduplik doesn't rely on file names or timestamps to find duplicates but on a file signature computed by hashing the file content. 
-Since hashes are based on the whole file content, it may take a while to complete the first scan.
+Note that since hashes are based on the whole file content, it may take a while to complete the first scan.
 
 
 # Getting started:
-Unzip "Deduplik Beta 1.zip" to the folder of your choice.
+Unzip the release to the folder of your choice.
 Look for and launch "Primordial.exe".
 
 You'll need the .NET Desktop Runtime 8.0 installed (https://dotnet.microsoft.com/en-us/download/dotnet).
@@ -16,8 +16,8 @@ Left click: Object selection.
 Richt click: Action popup.
 
 # Demo files
-To get a quick start using Deduplik, unzip “Deduplik demo files.zip” and scan it.
-The demo files are set with a few duplicate file scenarios.
+To get a quick start using Deduplik, unzip “Demo files.zip” and scan it.
+The demo files are set with a few duplicate scenarios.
 
 
 
