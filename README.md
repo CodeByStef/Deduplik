@@ -1,5 +1,5 @@
 # Deduplik
-![an image](/deduplik.png) Deduplik ⁕ A tool to visualize and cleanup duplicate files.
+![an image](deduplik.png) Deduplik ⁕ A tool to visualize and cleanup duplicate files.
 
 Deduplik doesn't rely on file names or timestamps to find duplicates but on a file signature computed by hashing the file content. 
 Note that since hashes are based on the whole file content, it may take a while to complete the first scan.
