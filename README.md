@@ -1,8 +1,7 @@
 # ![logo](https://github.com/CodeByStef/Deduplik/blob/main/Assets/Deduplik.png) Deduplik
-Deduplik ⁕ A tool to visualize and cleanup duplicate files.
+Deduplik ⁕ A graphical tool to clearly visualize duplicate files location and rapidly tag which one to keep and which one to remove.
 
-Deduplik doesn't rely on file names or timestamps to find duplicates but on a file signature computed by hashing the file content. 
-Note that since hashes are based on the whole file content, it may take a while to complete the first scan.
+Matching duplicates is done with an efficient comparison of the file content; not with weak methods such as file names or dates.
 
 
 # Getting started:
