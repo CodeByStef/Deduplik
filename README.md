@@ -9,19 +9,19 @@ Matching duplicates is done with an efficient comparison of the file content; no
 
 > [!CAUTION]
 > The purpose of this tool is to **selectively DELETE files!**\
-> Altought files are sent by default to the Recycle Bin, make sure you have an **up to date BACKUP** of your files.
+> Altought files are sent by default to the Recycle Bin, make sure your **BACKUPS** are up to date!
 
 
-## Getting started:
+## How to use:
 + Using Windows File Explorer, drag and drop folders unto your Workspace.
 + Scan files by clicking the red button.
 + Tag files with desired action - Keep, Remove or Not Sure for later review.
 + Clean duplicate files by clicking the green button.
 
 > [!TIP]
-> Use Keep This and Remove Others 
-> + It will tag the current file(s) to Keep 
-> + It will also tag the 'other' corresponding duplicate file to Remove
+> Use Keep and Remove Others 
+> + It tags the current file(s) as to Keep 
+> + It also tags the 'other' copies as to Remove
 >   
 > All that with just one click!
 
@@ -34,7 +34,8 @@ Matching duplicates is done with an efficient comparison of the file content; no
 > * Double click: Open Explorer.
 > * Hover to get an informative tooltip.
 
-## Installation:
+
+## Getting started:
 Download and Unzip the release to the folder of your choice.\
 Look for and launch "CodeByStef.Shell.Deduplik.exe".\
 You'll need the .NET Desktop Runtime 8.0 installed.\
