@@ -1,22 +1,33 @@
 # ![logo](https://github.com/CodeByStef/Deduplik/blob/main/Assets/Deduplik.png) Deduplik
-Deduplik ⁕ A graphical tool to clearly visualize duplicate files location and rapidly tag which one to keep and which one to remove.
+A graphical tool to locate and remove duplicated files.
+
+Deduplik allows to clearly visualize duplicates location from a big picture perspective and from a focused file or folder perspective.
+
+Deduplik makes it a breeze to tag files for keeping or removal with just a few clicks.
 
 Matching duplicates is done with an efficient comparison of the file content; not with weak methods such as file names or dates.
 
 
 # Getting started:
 Unzip the release to the folder of your choice.
-Look for and launch "Primordial.exe".
+Look for and launch "CodeByStef.Shell.Deduplik.exe".
 
 You'll need the .NET Desktop Runtime 8.0 installed (https://dotnet.microsoft.com/en-us/download/dotnet).
 
 Interacting with Deduplik is done with the mouse.  
 Left click: Object selection.
 Richt click: Action popup.
+Double click: Open Explorer.
+Hover to get an informative tooltip.
+
 
 # Demo files
 To get a quick start using Deduplik, unzip “Demo files.zip” and scan it.
 The demo files are set with a few duplicate scenarios.
+
+
+<img width="524" height="274" alt="image" src="https://github.com/user-attachments/assets/5ab68740-b1a1-4176-bc0f-47c667da83d3" />
+<img width="795" height="153" alt="image" src="https://github.com/user-attachments/assets/72696320-212e-4d65-b3e2-f6b655f526b1" />
 
 
 
