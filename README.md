@@ -9,7 +9,7 @@ Matching duplicates is done with an efficient comparison of the file content; no
 
 > [!CAUTION]
 > The purpose of this tool is to **selectively DELETE files!**\
-> Altought files are sent by default to the Recycle Bin, make sure your **BACKUPS** are up to date!
+> Altought removed files are sent to the Recycle Bin by default, make sure your **BACKUPS** are up to date!
 
 
 ## How to use:
