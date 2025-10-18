@@ -1,5 +1,5 @@
 # ![logo](https://github.com/CodeByStef/Deduplik/blob/main/Assets/Deduplik.png) Deduplik
-A graphical tool to locate and remove duplicated files.
+A graphical tool to locate and remove duplicate files.
 
 Deduplik allows to clearly visualize duplicates location from a big picture perspective and from a focused file or folder perspective.
 
