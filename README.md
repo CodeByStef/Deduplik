@@ -1,8 +1,9 @@
 # ![logo](https://github.com/CodeByStef/Deduplik/blob/main/Assets/Deduplik.png) Deduplik
 A graphical tool to locate and remove duplicate files.
 
-Deduplik allows to clearly visualize duplicate copies location and how they relate.
+Deduplik allows to clearly visualize duplicate copies location and how they relate.\
 View duplicates in the usual folder tree view but also from a big picture perspective and from a focused file or folder perspective.
+<img width="795" height="153" alt="image" src="https://github.com/user-attachments/assets/72696320-212e-4d65-b3e2-f6b655f526b1" />
 
 Deduplik makes it a breeze to tag files for keeping or removal with just a few clicks.
 
@@ -50,52 +51,5 @@ You'll need the .NET Desktop Runtime 8.0 installed.\
 To get a quick start using Deduplik, unzip “Demo files.zip” and scan it.
 The demo files are set with a few duplicate scenarios.
 
-
-<img width="524" height="274" alt="image" src="https://github.com/user-attachments/assets/5ab68740-b1a1-4176-bc0f-47c667da83d3" />
-<img width="795" height="153" alt="image" src="https://github.com/user-attachments/assets/72696320-212e-4d65-b3e2-f6b655f526b1" />
-
-
-
-
-```mermaid
-graph LR;
-
-    A[C:\]
-    B[FolderB];
-    B2[FolderBB];
-    C[FolderC];
-    C2[FolderCC];
-    F1([FileA]);
-    F2([FileAB]);
-    F3([FileAC]);
-    F4([FileD]);
-
-    A-->C;
-    A-->B;
-    C-->C2;
-    B-->B2;
-    B2-->F1;
-    B-->F2;
-    C-->F3;
-    C2-->F4;
-
-    subgraph Unique files
-    U1([FileA]);
-    U4([FileD]);
-    end
-
-    subgraph dups [Duplicate files]
-    F2([FileAB]);
-    F3([FileAC]);
-    style F2 stroke:#f00
-    style F3 stroke:#f00
-    style dups stroke:#f00, fill:#fee
-    end
-
-    F1-->U1;
-    F2-->U1;
-    F3-->U1;
-    F4-->U4;
-```
 
 <sub>Deduplik is Free and Open Source Software licensed under the GPL.</sub>
