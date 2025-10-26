@@ -1,11 +1,13 @@
 # ![logo](https://github.com/CodeByStef/Deduplik/blob/main/Assets/Deduplik.png) Deduplik
 A graphical tool to locate and remove duplicate files.
 
-Deduplik allows to clearly visualize duplicates location from a big picture perspective and from a focused file or folder perspective.
+Deduplik allows to clearly visualize duplicate copies location and how they relate.
+View duplicates in the usual folder tree view but also from a big picture perspective and from a focused file or folder perspective.
 
 Deduplik makes it a breeze to tag files for keeping or removal with just a few clicks.
 
 Matching duplicates is done with an efficient comparison of the file content; not with weak methods such as file names or dates.
+<br/>
 
 > [!CAUTION]
 > The purpose of this tool is to **selectively DELETE files!**\
@@ -14,24 +16,26 @@ Matching duplicates is done with an efficient comparison of the file content; no
 
 ## How to use:
 + Using Windows File Explorer, drag and drop folders unto your Workspace.
-+ Scan files by clicking the red button.
-+ Tag files with desired action - Keep, Remove or Not Sure for later review.
-+ Clean duplicate files by clicking the green button.
++ Find duplicates by clicking the green Detect button.
++ Right-click files and folders to Tag them with desired action - Keep, Remove or Not Sure for later review.
++ Get rid of duplicates by clicking the red Clean button.
+<br/>
 
 > [!TIP]
-> Use Keep and Remove Others 
+> Quickly tag files with Keep and Remove Others 
 > + It tags the current file(s) as to Keep 
 > + It also tags the 'other' copies as to Remove
 >   
 > All that with just one click!
 
+<br/>
 
-> [!IMPORTANT]
+> [!NOTE]
 > Everything in Deduplik is done using the mouse\
 > <sup>With some keyboard shortcuts here and there...</sup>
 > * Left click: Object selection.
 > * Richt click: Action popup.
-> * Double click: Open Explorer.
+> * Double click: Open in Explorer.
 > * Hover to get an informative tooltip.
 
 
