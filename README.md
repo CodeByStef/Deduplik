@@ -3,7 +3,7 @@ A graphical tool to locate and remove duplicate files.
 
 Deduplik allows to clearly visualize duplicate copies location and how they relate.\
 View duplicates in the usual folder tree view but also from a big picture perspective and from a focused file or folder perspective.
-<img width="795" height="153" alt="image" src="https://github.com/user-attachments/assets/72696320-212e-4d65-b3e2-f6b655f526b1" />
+<img width="839" height="139" alt="image" src="https://github.com/user-attachments/assets/4f75755c-dfe2-447d-8022-25b0ff83cb45" />
 
 Deduplik makes it a breeze to tag files for keeping or removal with just a few clicks.
 
