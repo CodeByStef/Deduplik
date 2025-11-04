@@ -4,6 +4,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+## [v1.0.0.0] - 2025-11-03
+### Changed
+  - Graph nodes now have default approximate position instead of top left corner.
+### Fixed
+  - MinDupsToShow kept value from previous Workspace.
+  - Fixed issue [GH-4](https://github.com/CodeByStef/Deduplik/issues/4) - While in detection mode the app is unresponsive.
+
 ## [v0.9.2.1-Beta2-2] - 2025-10-29
 ### Added
   - New message at app startup when an update is available.
