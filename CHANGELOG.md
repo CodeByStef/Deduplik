@@ -4,6 +4,15 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+## [v1.0.3.1] - 2025-11-09
+### Added
+  - New dialog to find and remove (Recycle Bin) empty folders.
+### Changed
+  - Renamed Session grapoh to Summary Graph.
+  - Summary graph can no longer ShowFiles for usability and performance reasons.
+### Fixed
+  - NoTag tooltip not recalculated when tagiing files..
+
 ## [v1.0.2.1] - 2025-11-05
 ### Added
   - NoTagCount in Folder and Graphs Tooltips.
